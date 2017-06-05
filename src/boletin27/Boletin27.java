@@ -1,10 +1,7 @@
 
 package boletin27;
 
-/**
- *
- * @author julian
- */
+
 public class Boletin27 {
 
     
